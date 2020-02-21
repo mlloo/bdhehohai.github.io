@@ -27,5 +27,5 @@
  当个前台、做过保安                                                                                                                   
 [链接描述](url)
 [英文版](index-en.md)
-<a href="/index-en.html">英文版</a>
+<a href="oo">英文版</a>
 
