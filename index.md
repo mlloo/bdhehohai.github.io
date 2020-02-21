@@ -11,7 +11,7 @@
       <p><b>地址：浙江省宁波市鄞州区钱湖南路8号，邮编585740</b></p>
     </td>
     <td width="25%">
-      <img src="zhengjianzhao.jpg" width="100%">      
+      <img src="QQ图片20200221172944.jpg" width="100%">      
     </td>
   </tr>
 </table>
